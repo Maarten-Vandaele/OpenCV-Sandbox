@@ -6,5 +6,5 @@ Useful code for OpenCV
 A collection of code useful to work with OpenCV. 
 
 ## Screenshots
-![Alt text](./assets/camera.PNG?raw=true "Camera funtions")
-![Alt text](./assets/drawings.PNG?raw=true "Drawings")
+![Alt text](./assets/camera.JPG?raw=true "Camera funtions")
+![Alt text](./assets/drawings.JPG?raw=true "Drawings")
