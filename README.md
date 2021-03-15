@@ -7,7 +7,9 @@ A collection of code useful to work with OpenCV collected while practicing the c
 
 ## Screenshots
 1. Camera options
+
 ![Alt text](./assets/camera.JPG?raw=true "Camera funtions")
 
 2. Drawing stuff
+
 ![Alt text](./assets/drawings.JPG?raw=true "Drawings")
